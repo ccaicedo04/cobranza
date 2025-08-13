@@ -1,0 +1,2 @@
+<?php
+// RegistroPago model

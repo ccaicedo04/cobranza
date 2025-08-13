@@ -1,0 +1,2 @@
+<?php
+// Autoloader core file

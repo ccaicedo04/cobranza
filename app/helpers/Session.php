@@ -1,0 +1,2 @@
+<?php
+// Session helper

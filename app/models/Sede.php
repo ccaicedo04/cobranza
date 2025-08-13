@@ -1,0 +1,2 @@
+<?php
+// Sede model

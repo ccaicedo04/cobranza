@@ -1,0 +1,1 @@
+// estudiantes detalle script

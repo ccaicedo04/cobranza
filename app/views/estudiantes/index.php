@@ -1,0 +1,2 @@
+<?php
+// estudiantes index view
