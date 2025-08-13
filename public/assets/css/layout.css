@@ -1,3 +1,6 @@
 .topbar { background:#333; color:#fff; padding:1rem; }
 .topbar a { color:#fff; }
 .container { max-width:900px; margin:2rem auto; padding:0 1rem; }
+.card { background:#fff; padding:1rem; border-radius:4px; box-shadow:0 1px 2px rgba(0,0,0,0.1); }
+.grid2 { display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:1rem; }
+.grid3 { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:1rem; }
