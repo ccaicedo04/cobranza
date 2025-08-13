@@ -1,0 +1,2 @@
+<?php
+// AuditoriaController placeholder

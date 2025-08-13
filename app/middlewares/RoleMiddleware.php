@@ -1,0 +1,2 @@
+<?php
+// RoleMiddleware placeholder

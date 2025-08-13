@@ -1,0 +1,2 @@
+<?php
+// PlantillaSede model

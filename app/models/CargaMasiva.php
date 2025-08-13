@@ -1,0 +1,2 @@
+<?php
+// CargaMasiva model

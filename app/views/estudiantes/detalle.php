@@ -1,0 +1,2 @@
+<?php
+// estudiantes detalle view

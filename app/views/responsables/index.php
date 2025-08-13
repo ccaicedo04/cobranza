@@ -1,0 +1,2 @@
+<?php
+// responsables index view
