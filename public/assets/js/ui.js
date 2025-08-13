@@ -1,1 +1,1 @@
-// ui script
+console.log('ui loaded');

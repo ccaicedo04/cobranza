@@ -1,1 +1,3 @@
-/* layout styles */
+.topbar { background:#333; color:#fff; padding:1rem; }
+.topbar a { color:#fff; }
+.container { max-width:900px; margin:2rem auto; padding:0 1rem; }

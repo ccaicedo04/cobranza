@@ -1,1 +1,1 @@
-// forms script
+console.log('forms loaded');

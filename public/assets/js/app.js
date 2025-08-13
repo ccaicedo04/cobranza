@@ -1,1 +1,1 @@
-// app script
+console.log('app loaded');
