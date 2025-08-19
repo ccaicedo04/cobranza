@@ -1,0 +1,2 @@
+<?php
+// ParametrosSistema model

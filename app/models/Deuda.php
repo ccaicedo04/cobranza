@@ -1,0 +1,2 @@
+<?php
+// Deuda model

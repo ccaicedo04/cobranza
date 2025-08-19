@@ -1,0 +1,2 @@
+<?php
+// pagos view
